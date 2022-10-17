@@ -6,12 +6,7 @@ The coding phase of this web page by its own was a great experience to learn the
 
 This project I made in the beginning of my programming learning journey will be a very interesting memory to look at in the future when I am much more ahead of where I am now. 
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Usage
 You can see list of topics that we have studied during the prework and information about them. 

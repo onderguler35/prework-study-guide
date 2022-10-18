@@ -10,7 +10,7 @@ This project I made in the beginning of my programming learning journey will be 
 You can see list of topics that we have studied during the prework and information about them. 
 But the most important thing is that you should run the console from the browser, so you see the active js stuff going on which is the fun part. 
 
-![Screenshot of the Web App](assets/screenshot.jpg)
+![Screenshot of the Web App](*/assets/screenshot.JPG)
 
 
 ## Credits
